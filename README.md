@@ -21,7 +21,8 @@ Effortlessly map keys, define sequences, and compile them into AutoHotkey script
 
 ![image](https://github.com/user-attachments/assets/27897ad7-af5f-4a2a-bf8f-0f7f12d75b0f)
 
-![image](https://github.com/user-attachments/assets/da651448-88a4-4cad-ad8f-7c9c8fb20723)
+![image](https://github.com/user-attachments/assets/1fd88428-1c85-4434-8a67-dc5e6293649d)
+
 We can add a toggle key that allows us to pause/resume script without aborting it, or exit script key, or an info key that shows our key mappings for our saved script.
 
 ![image](https://github.com/user-attachments/assets/87eb4ab7-df11-42d6-b463-fbead4aa12f7)
