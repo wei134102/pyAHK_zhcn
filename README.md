@@ -21,14 +21,15 @@ Effortlessly map keys, define sequences, and compile them into AutoHotkey script
 
 ![image](https://github.com/user-attachments/assets/27897ad7-af5f-4a2a-bf8f-0f7f12d75b0f)
 
+## Script toggle, exit or info (shows key mappings) optional keys
+
 ![image](https://github.com/user-attachments/assets/1fd88428-1c85-4434-8a67-dc5e6293649d)
 
-We can add a toggle key that allows us to pause/resume script without aborting it, or exit script key, or an info key that shows our key mappings for our saved script.
+## Key mapping and AutoHotKey script displays after adding mapping
 
 ![image](https://github.com/user-attachments/assets/87eb4ab7-df11-42d6-b463-fbead4aa12f7)
-After clicking on "Add mapping", we can see our hotkey function in the Key Mappings display screen and the AHK script in its display.
 
-And finally we can save the script directly as an ahk file or build it as an exe.
+## Save script directly as an ahk file or build it as an exe
 
 
 
